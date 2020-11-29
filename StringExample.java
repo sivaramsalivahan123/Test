@@ -9,6 +9,7 @@ public class StringExample {
         String s1="Hello";
         String s2="world";
         System.out.println(s1.concat(" ").concat(s2));
+        System.out.println(s1 + " " + s2);
 
     }
 }
